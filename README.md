@@ -34,7 +34,8 @@ plt.show()
 
 ```
 Result of the accumulated cost matrix and the shortest path (in white) found:
-![Acc cost matrix and shortest path](./acc.png)
+
+![Acc cost matrix and shortest path](./img/acc.png)
 
 
 ## Other examples are available as notebook
