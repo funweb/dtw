@@ -30,7 +30,7 @@ plt.show()
 
 
 累计成本矩阵(accumulated cost matrix)的结果 以及 找到的最短路径(shortest path)(白色)
-![累计成本矩阵和最短路径图片](https://github.com/funweb/dtw/blob/master/acc.png)
+![累计成本矩阵和最短路径图片](./img/acc.png)
 
 ## notebook 类型的其它可用的例子
 (上面的代码的 notebook 格式)[https://github.com/funweb/dtw/blob/master/examples/simple%20example.ipynb]
