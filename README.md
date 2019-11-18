@@ -1,4 +1,4 @@
-# [Dynamic Time Warping](https://en.wikipedia.org/wiki/Dynamic_time_warping) Python Module
+# [Dynamic Time Warping](https://en.wikipedia.org/wiki/Dynamic_time_warping) Python Module | (中文)[https://github.com/funweb/dtw/blob/master/readme%E4%B8%AD%E6%96%87.md]
 
 [![Build Status](https://travis-ci.org/pierre-rouanet/dtw.svg?branch=master)](https://travis-ci.org/pierre-rouanet/dtw)
 
